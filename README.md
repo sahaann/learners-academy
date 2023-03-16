@@ -1,5 +1,5 @@
 # Administrative-portal-for-Learner-s-Academy
-## Project' Details
+## Project' Details:
 This project aims to design and develop a backend administrative portal for the Learner’s Academy using Java EE technologies. I developed it as a project of phase 2 for the Become a back-end expert course.
 The goal of this project is to apply servlet, jsp and JDBC concepts.
 
@@ -15,7 +15,7 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 9.	Create a CSS file to format the contents.
 10.	Debug and Test the project.
 
-## Technologies and tools Used
+## Technologies and tools Used:
 •	Servlet: to do the business logic and works a controller for the project. 
 
 •	JSP: to handle the presentation view.
@@ -32,12 +32,12 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 
 •	Tomcat: to run and deploy servlet application.
 
-## Flowcharts of The Application
+## Flowcharts of The Application:
 
 ![Blank Diagram](https://user-images.githubusercontent.com/64940728/120771636-182e8e00-c528-11eb-92bb-f5856138c93f.png)
 
 
-## Core concepts used in the project. 
+## Core concepts used in the project:
 •	Object-Oriented: used to create and model objects for users and their credentials.
 
 •	Databases: used to store and retrieve data.
@@ -51,7 +51,7 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 •	Cookies: to store log-in data on the client browser. 
 
 
-## How to run the program
+## How to run the program:
 •	clone project
 
 •	Import the “database\database.sql” file to your database administration tool.
